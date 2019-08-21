@@ -17,3 +17,5 @@ Content/StarterContent/
 #
 # Xcode generated files
 #
+**/xcuserdata
+contents.xcworkspacedata
